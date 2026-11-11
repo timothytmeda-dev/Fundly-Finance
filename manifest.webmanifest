@@ -1,0 +1,14 @@
+{
+  "name": "Fundly — Finance Management & Budget Planner",
+  "short_name": "Fundly",
+  "description": "Finance management and budget planner for businesses and individuals. Runs entirely in your browser.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#e6e7e4",
+  "theme_color": "#e6e7e4",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
